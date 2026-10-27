@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /wp-admin/
+Disallow: /category/
+Disallow: /api/
+
+Sitemap: https://foundationpropertiesinc.com/sitemap.xml

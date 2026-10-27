@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-10-27T19:51:30.522Z",
+  "originalSitemapUrls": 9,
+  "replacementSitemapUrls": 8,
+  "missingPublicSourceUrls": [],
+  "intentionallyExcluded": [
+    "https://foundationpropertiesinc.com/development/"
+  ],
+  "additionalIndexableArchives": [],
+  "originalRobots": "User-agent: *\r\nDisallow: /wp-admin/\r\nAllow: /wp-admin/admin-ajax.php\r\nDisallow: /category/\r\n\r\nSitemap: http://foundationpropertiesinc.com/sitemap_index.xml",
+  "changes": [
+    "Preserve source crawl exclusions; disallow the new contact API.",
+    "Advertise one working HTTPS sitemap; redirect old sitemap endpoints.",
+    "Preserve source modification dates and omit noindex legacy development pages."
+  ]
+}

@@ -1,12 +1,12 @@
 {
-  "verifiedAt": "2026-10-27T19:03:03.300Z",
-  "buildId": "wqCh8Y8IH04fUI-Od26hQ",
+  "verifiedAt": "2026-10-27T19:55:27.357Z",
+  "buildId": "f3YAbQtySoIip1J5KA2Aw",
   "stack": "Next.js 16.4.3, React 19, TypeScript, vanilla CSS, Node.js 24",
   "typecheck": "passed",
   "lint": "passed",
   "productionBuild": "passed",
   "unitTests": {
-    "passed": 12,
+    "passed": 18,
     "failed": 0
   },
   "productionDependencyVulnerabilities": 0,
@@ -38,7 +38,20 @@
     "smtpProviderAccepted": true,
     "recipient": "kerngc@gmail.com",
     "inboxReceipt": "not verified",
-    "liveTurnstile": "blocked: matching public site key missing; production/preview widget hostnames must be configured"
+    "liveTurnstile": "blocked: matching public site key missing; production/preview widget hostnames must be configured",
+    "additionalRecipient": "citryn.contactforms@gmail.com",
+    "copyDeliveryTest": {
+      "checkedAt": "2026-10-27T19:50:33.471Z",
+      "site": "Foundation Properties Inc",
+      "to": "kerngc@gmail.com",
+      "cc": "citryn.contactforms@gmail.com",
+      "transport": "Actual SMTP.com HTTPS API through the application contact handler",
+      "turnstile": "Simulated within this local test harness only; live browser verification remains pending the public site key",
+      "inboxReceipt": "Not verified",
+      "smtpHttpStatus": 200,
+      "handlerStatus": 200,
+      "providerAccepted": true
+    }
   },
   "lighthouseMobile": {
     "performance": 80,
@@ -85,5 +98,14 @@
       "Missing public Turnstile site key and hostname verification",
       "Recipient inbox receipt not independently confirmed"
     ]
+  },
+  "productionEnvironment": {
+    "configured": true,
+    "evidence": "migration/production-env-verification.json",
+    "missingPublicTurnstileKey": true
+  },
+  "crawlControls": {
+    "sourceComparison": "migration/crawl-controls/comparison.json",
+    "missingPublicSourceUrls": 0
   }
 }
