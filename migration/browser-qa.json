@@ -1,0 +1,336 @@
+{
+  "site": "foundation",
+  "time": "2026-10-27T18:57:06.147Z",
+  "routes": [
+    {
+      "route": "/gallery/",
+      "status": 200,
+      "title": "Gallery | Foundation Properties Inc",
+      "description": "Browse original before-and-after photographs of Foundation Properties Inc construction and remodeling projects in Bakersfield, CA.",
+      "canonical": "https://foundationpropertiesinc.com/gallery/",
+      "h1": 1,
+      "widths": [
+        {
+          "width": 1440,
+          "height": 2668,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 768,
+          "height": 7056,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 390,
+          "height": 7114,
+          "overflow": false,
+          "broken": []
+        }
+      ]
+    },
+    {
+      "route": "/stucco-repair-bakersfield/",
+      "status": 200,
+      "title": "Premium Stucco Contractors in Bakersfield | Stucco Repair & Installation - Foundation Properties Inc.",
+      "description": "Discover top-notch stucco services in Bakersfield. Foundation Properties Inc. specializes in stucco repair, installation, and exterior solutions for commercial and residential projects. Enhance your property's appeal and durability today.",
+      "canonical": "https://foundationpropertiesinc.com/stucco-repair-bakersfield/",
+      "h1": 1,
+      "widths": [
+        {
+          "width": 1440,
+          "height": 2946,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 768,
+          "height": 3159,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 390,
+          "height": 3263,
+          "overflow": false,
+          "broken": []
+        }
+      ]
+    },
+    {
+      "route": "/video/",
+      "status": 200,
+      "title": "Video | Foundation Properties Inc",
+      "description": "Watch Kern General Construction project videos and contact Foundation Properties Inc about construction and remodeling in Bakersfield, CA.",
+      "canonical": "https://foundationpropertiesinc.com/video/",
+      "h1": 1,
+      "widths": [
+        {
+          "width": 1440,
+          "height": 1845,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 768,
+          "height": 1996,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 390,
+          "height": 1936,
+          "overflow": false,
+          "broken": []
+        }
+      ]
+    },
+    {
+      "route": "/development/",
+      "status": 200,
+      "title": "Development | Foundation Properties Inc",
+      "description": "Explore Foundation Properties Inc development and construction project information in Bakersfield, California.",
+      "canonical": "https://foundationpropertiesinc.com/development/",
+      "h1": 1,
+      "widths": [
+        {
+          "width": 1440,
+          "height": 5196,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 768,
+          "height": 7298,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 390,
+          "height": 6778,
+          "overflow": false,
+          "broken": []
+        }
+      ]
+    },
+    {
+      "route": "/contact-us/",
+      "status": 200,
+      "title": "Contact Us | Foundation Properties Inc",
+      "description": "Contact Foundation Properties Inc and Kern General Construction for construction, remodeling and real estate services in Bakersfield, California.",
+      "canonical": "https://foundationpropertiesinc.com/contact-us/",
+      "h1": 1,
+      "widths": [
+        {
+          "width": 1440,
+          "height": 1000,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 768,
+          "height": 1265,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 390,
+          "height": 1430,
+          "overflow": false,
+          "broken": []
+        }
+      ]
+    },
+    {
+      "route": "/about-us/",
+      "status": 200,
+      "title": "About Us | Foundation Properties Inc",
+      "description": "Learn about Foundation Properties Inc and Kern General Construction, serving residential and commercial clients in Bakersfield, California.",
+      "canonical": "https://foundationpropertiesinc.com/about-us/",
+      "h1": 1,
+      "widths": [
+        {
+          "width": 1440,
+          "height": 2936,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 768,
+          "height": 8027,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 390,
+          "height": 5971,
+          "overflow": false,
+          "broken": []
+        }
+      ]
+    },
+    {
+      "route": "/general-contractor-services/",
+      "status": 200,
+      "title": "General Contractor Services | Foundation Properties Inc",
+      "description": "Foundation Properties Inc offers best residential and general contractors services like roofing, stucco, plumbing and painting in Bakersfield CA. Contact us for more details.",
+      "canonical": "https://foundationpropertiesinc.com/general-contractor-services/",
+      "h1": 1,
+      "widths": [
+        {
+          "width": 1440,
+          "height": 3051,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 768,
+          "height": 4707,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 390,
+          "height": 4646,
+          "overflow": false,
+          "broken": []
+        }
+      ]
+    },
+    {
+      "route": "/real-estate-services/",
+      "status": 200,
+      "title": "Real Estate Services | Foundation Properties Inc",
+      "description": "Looking for the best property management service in Bakersfield, CA? Properties Inc offers services like buy-sell houses, home remodeling, rent to own house and many more real estate services. Contact us today!",
+      "canonical": "https://foundationpropertiesinc.com/real-estate-services/",
+      "h1": 1,
+      "widths": [
+        {
+          "width": 1440,
+          "height": 2478,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 768,
+          "height": 3620,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 390,
+          "height": 3712,
+          "overflow": false,
+          "broken": []
+        }
+      ]
+    },
+    {
+      "route": "/",
+      "status": 200,
+      "title": "Framing Company | Top Rated House Painters & Cabinet Makers in Bakersfield, CA | Foundation Properties Inc",
+      "description": "Foundation Properties Inc and Kern General Construction provide residential and commercial construction, remodeling and real estate services in Bakersfield, CA.",
+      "canonical": "https://foundationpropertiesinc.com/",
+      "h1": 1,
+      "widths": [
+        {
+          "width": 1440,
+          "height": 4550,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 768,
+          "height": 6982,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 390,
+          "height": 7793,
+          "overflow": false,
+          "broken": []
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "externalResources": [],
+  "screenshots": [
+    "gallery_-1440.png",
+    "gallery_-768.png",
+    "gallery_-390.png",
+    "stucco-repair-bakersfield_-1440.png",
+    "stucco-repair-bakersfield_-768.png",
+    "stucco-repair-bakersfield_-390.png",
+    "video_-1440.png",
+    "video_-768.png",
+    "video_-390.png",
+    "development_-1440.png",
+    "development_-768.png",
+    "development_-390.png",
+    "contact-us_-1440.png",
+    "contact-us_-768.png",
+    "contact-us_-390.png",
+    "about-us_-1440.png",
+    "about-us_-768.png",
+    "about-us_-390.png",
+    "general-contractor-services_-1440.png",
+    "general-contractor-services_-768.png",
+    "general-contractor-services_-390.png",
+    "real-estate-services_-1440.png",
+    "real-estate-services_-768.png",
+    "real-estate-services_-390.png",
+    "home-1440.png",
+    "home-768.png",
+    "home-390.png"
+  ],
+  "links": [
+    {
+      "href": "/",
+      "status": 200
+    },
+    {
+      "href": "/general-contractor-services/",
+      "status": 200
+    },
+    {
+      "href": "/real-estate-services/",
+      "status": 200
+    },
+    {
+      "href": "/gallery/",
+      "status": 200
+    },
+    {
+      "href": "/about-us/",
+      "status": 200
+    },
+    {
+      "href": "/contact-us/",
+      "status": 200
+    },
+    {
+      "href": "/gallery",
+      "status": 308
+    }
+  ],
+  "forms": [
+    {
+      "expected": 400,
+      "status": 400
+    },
+    {
+      "expected": 400,
+      "status": 400
+    }
+  ],
+  "navigation": [
+    {
+      "mobileOpened": true,
+      "mobileLinks": 6,
+      "escapeClosed": true
+    }
+  ]
+}

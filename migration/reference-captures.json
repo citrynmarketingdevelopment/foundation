@@ -1,0 +1,38 @@
+[
+  {
+    "route": "/gallery/",
+    "status": "captured"
+  },
+  {
+    "route": "/stucco-repair-bakersfield/",
+    "status": "captured"
+  },
+  {
+    "route": "/video/",
+    "status": "captured"
+  },
+  {
+    "route": "/development/",
+    "status": "captured"
+  },
+  {
+    "route": "/contact-us/",
+    "status": "captured"
+  },
+  {
+    "route": "/about-us/",
+    "status": "captured"
+  },
+  {
+    "route": "/general-contractor-services/",
+    "status": "captured"
+  },
+  {
+    "route": "/real-estate-services/",
+    "status": "captured"
+  },
+  {
+    "route": "/",
+    "status": "captured"
+  }
+]

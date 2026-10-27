@@ -1,0 +1,56 @@
+[
+  {
+    "route": "/gallery/",
+    "name": "Gallery",
+    "title": "Gallery",
+    "original": "https://foundationpropertiesinc.com/gallery/"
+  },
+  {
+    "route": "/stucco-repair-bakersfield/",
+    "name": "Stucco repair Bakersfield",
+    "title": "Premium Stucco Contractors in Bakersfield | Stucco Repair & Installation - Foundation Properties Inc.",
+    "original": "https://foundationpropertiesinc.com/stucco-repair-bakersfield/"
+  },
+  {
+    "route": "/video/",
+    "name": "Video",
+    "title": "Video",
+    "original": "https://foundationpropertiesinc.com/video/"
+  },
+  {
+    "route": "/development/",
+    "name": "Development",
+    "title": "Development",
+    "original": "https://foundationpropertiesinc.com/development/"
+  },
+  {
+    "route": "/contact-us/",
+    "name": "Contact Us",
+    "title": "Contact Us",
+    "original": "https://foundationpropertiesinc.com/contact-us/"
+  },
+  {
+    "route": "/about-us/",
+    "name": "About Us",
+    "title": "About Us",
+    "original": "https://foundationpropertiesinc.com/about-us/"
+  },
+  {
+    "route": "/general-contractor-services/",
+    "name": "General Contractor Services",
+    "title": "General Contractors Bakersfield CA | Bakersfield Residential Contractors | Bakersfield General Contractors - Foundation Properties, Inc.",
+    "original": "https://foundationpropertiesinc.com/general-contractor-services/"
+  },
+  {
+    "route": "/real-estate-services/",
+    "name": "Real Estate Services",
+    "title": "Rent to Own | Sell my House | Buy Houses in Bakersfield, CA - Foundation Properties, Inc",
+    "original": "https://foundationpropertiesinc.com/real-estate-services/"
+  },
+  {
+    "route": "/",
+    "name": "Home",
+    "title": "Framing Company | Top Rated House Painters & Cabinet Makers in Bakersfield, CA | Foundation Properties Inc",
+    "original": "https://foundationpropertiesinc.com/"
+  }
+]
