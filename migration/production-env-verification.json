@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-27T19:55:24.505Z",
+  "checkedAt": "2026-10-27T20:22:20.324Z",
   "teamId": "team_03x1ngAC8mexBkAYzAJJnkMq",
   "projectId": "prj_0O0QOxW8s4q4n0tCYrDhrK5HsHgm",
   "project": "foundation",
@@ -60,10 +60,15 @@
       "target": [
         "production"
       ]
+    },
+    {
+      "key": "NEXT_PUBLIC_TURNSTILE_SITE_KEY",
+      "type": "plain",
+      "target": [
+        "production"
+      ]
     }
   ],
-  "missingVariables": [
-    "NEXT_PUBLIC_TURNSTILE_SITE_KEY"
-  ],
+  "missingVariables": [],
   "secretValuesIncluded": false
 }
